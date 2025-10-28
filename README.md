@@ -22,7 +22,7 @@ The dashboard analyzes data from 2022 and 2023, highlighting total sales, quanti
 
 The dashboard consists of three pages, each focusing on different aspects of the data:
 
-### Page 1: Geographic & Detailed Breakdown (2024 MTD Report)
+### Page 1: Geographic & Detailed Breakdown 
 - **Key Metrics**: Total Sales (769M), Total Quantity (19K), Transactions (4K), Average Price (40.11K).
 - **Visualizations**:
   - Map of sales by city (e.g., Delhi, Mumbai, Bangalore).
@@ -33,7 +33,7 @@ The dashboard consists of three pages, each focusing on different aspects of the
 - **Screenshot**:
   ![Page 1 Screenshot](Dashboard.jpg)
 
-### Page 2: Quarterly & Monthly Analysis (2023 Focus)
+### Page 2: Quarterly & Monthly Analysis 
 - **Key Metrics**: Total Sales (253M), Total Quantity (6K), Transactions (1K), Average Price (39.73K).
 - **Visualizations**:
   - Stacked bar charts for quarterly and monthly sales vs. same period last year.
@@ -42,7 +42,7 @@ The dashboard consists of three pages, each focusing on different aspects of the
 - **Screenshot**:
   ![Page 2 Screenshot]( Same_Period_Last_Year_report.jpg)
 
-### Page 3:  Overview & Trends (2022 Focus)
+### Page 3:  Overview & Trends 
 - **Key Metrics**: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
 - **Visualizations**:
   - Line chart showing monthly sales trends (MTD by Year/Quarter/Month/Day).
@@ -57,7 +57,5 @@ The dashboard consists of three pages, each focusing on different aspects of the
 - **Data Sources**: Excel files with sales data (e.g., transactions, products, locations). 
 - **Libraries/Integrations**: DAX for calculations, Power Query for data transformation.
 
-
-
-
-THANKS 
+## Acknowledgments
+- Built with ❤️ using Power BI. 
