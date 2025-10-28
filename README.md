@@ -40,7 +40,7 @@ The dashboard consists of three pages, each focusing on different aspects of the
   - Table summarizing sales by quarter.
   - Filters: Mobile Model, Payment Method, Time Granularity.
 - **Screenshot**:
-  ![Page 2 Screenshot]( Same Period Last Year report.jpg)
+  ![Page 2 Screenshot]( Same_Period_Last_Year_report.jpg)
 
 ### Page 3:  Overview & Trends (2022 Focus)
 - **Key Metrics**: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
@@ -49,7 +49,7 @@ The dashboard consists of three pages, each focusing on different aspects of the
   - Bar charts for sales comparison with same period last year.
   - Filters: Mobile Model, Payment Method, Time Granularity (Year/Quarter/Month/Day).
 - **Screenshot**:
-  ![Page 3 Screenshot](MTD Report.jpg) 
+  ![Page 3 Screenshot](MTD_Report.jpg) 
 
 
 ## Technologies Used
