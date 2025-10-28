@@ -1,7 +1,5 @@
 # Power_BI_Mobile_Sales_Dashboard
 
-# Mobile Sales Dashboard
-
 ![Mobile Sales Dashboard Banner](Dashboard.jpg) 
 
 ## Overview
