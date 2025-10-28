@@ -2,7 +2,7 @@
 
 # Mobile Sales Dashboard
 
-![Mobile Sales Dashboard Banner](Dashboard.jpg) <!-- Replace with actual banner if available -->
+![Mobile Sales Dashboard Banner](Dashboard.jpg) 
 
 ## Overview
 
