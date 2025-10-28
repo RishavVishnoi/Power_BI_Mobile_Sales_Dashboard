@@ -1,67 +1,62 @@
 # Power_BI_Mobile_Sales_Dashboard
 
-Mobile Sales Dashboard
-Failed to load imageView link 
-Overview
-This repository contains a comprehensive Mobile Sales Dashboard built using Power BI, visualizing key sales metrics for mobile devices across multiple dimensions such as time periods, payment methods, mobile models, brands, locations, and customer ratings. The dashboard is divided into three interactive pages, providing insights into sales performance, trends, and comparisons year-over-year (YoY).
+# Mobile Sales Dashboard
+
+![Mobile Sales Dashboard Banner](path/to/banner-image.png) <!-- Replace with actual banner if available -->
+
+## Overview
+
+This repository contains a comprehensive **Mobile Sales Dashboard** built using Power BI, visualizing key sales metrics for mobile devices across multiple dimensions such as time periods, payment methods, mobile models, brands, locations, and customer ratings. The dashboard is divided into three interactive pages, providing insights into sales performance, trends, and comparisons year-over-year (YoY).
+
 The dashboard analyzes data from 2022 and 2023, highlighting total sales, quantities, transactions, average prices, and more. It helps stakeholders track growth, identify top-performing products and regions, and make data-driven decisions for sales strategies.
-Key Insights from the Dashboard
 
-Total Sales Growth: From 23M in 2022 to 253M in 2023 (significant YoY increase).
-Top Brands: Samsung and OnePlus lead in sales volume.
-Popular Models: iPhone SE, OnePlus Nord, and Galaxy Note 20 dominate.
-Payment Trends: UPI and Debit Cards are the most used methods.
-Geographic Hotspots: High sales in cities like Delhi, Mumbai, and Bangalore.
-Seasonal Patterns: Sales peak in Q1 and Q3, with variations by month and day of the week.
+### Key Insights from the Dashboard
+- **Total Sales Growth**: From 23M in 2022 to 253M in 2023 (significant YoY increase).
+- **Top Brands**: Samsung and OnePlus lead in sales volume.
+- **Popular Models**: iPhone SE, OnePlus Nord, and Galaxy Note 20 dominate.
+- **Payment Trends**: UPI and Debit Cards are the most used methods.
+- **Geographic Hotspots**: High sales in cities like Delhi, Mumbai, and Bangalore.
+- **Seasonal Patterns**: Sales peak in Q1 and Q3, with variations by month and day of the week.
 
-Dashboard Pages
+## Dashboard Pages
+
 The dashboard consists of three pages, each focusing on different aspects of the data:
-Page 1: Overview & Trends (2022 Focus)
 
-Key Metrics: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
-Visualizations:
+### Page 1: Overview & Trends (2022 Focus)
+- **Key Metrics**: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
+- **Visualizations**:
+  - Line chart showing monthly sales trends (MTD by Year/Quarter/Month/Day).
+  - Bar charts for sales comparison with same period last year.
+  - Filters: Mobile Model, Payment Method, Time Granularity (Year/Quarter/Month/Day).
+- **Screenshot**:
+  ![Page 1 Screenshot](screenshots/page1-overview-2022.png) <!-- Upload and link actual image -->
 
-Line chart showing monthly sales trends (MTD by Year/Quarter/Month/Day).
-Bar charts for sales comparison with same period last year.
-Filters: Mobile Model, Payment Method, Time Granularity (Year/Quarter/Month/Day).
+### Page 2: Quarterly & Monthly Analysis (2023 Focus)
+- **Key Metrics**: Total Sales (253M), Total Quantity (6K), Transactions (1K), Average Price (39.73K).
+- **Visualizations**:
+  - Stacked bar charts for quarterly and monthly sales vs. same period last year.
+  - Table summarizing sales by quarter.
+  - Filters: Mobile Model, Payment Method, Time Granularity.
+- **Screenshot**:
+  ![Page 2 Screenshot](screenshots/page2-qm-analysis-2023.png) <!-- Upload and link actual image -->
 
+### Page 3: Geographic & Detailed Breakdown (2024 MTD Report)
+- **Key Metrics**: Total Sales (769M), Total Quantity (19K), Transactions (4K), Average Price (40.11K).
+- **Visualizations**:
+  - Map of sales by city (e.g., Delhi, Mumbai, Bangalore).
+  - Line chart for quantity by month.
+  - Bar charts for ratings by status and transactions by payment method.
+  - Pie chart for payment method distribution.
+  - Bar charts for sales by brand/model and by day of the week.
+- **Screenshot**:
+  ![Page 3 Screenshot](screenshots/page3-geographic-details.png) <!-- Upload and link actual image -->
 
-Screenshot:
-Failed to load imageView link 
-
-Page 2: Quarterly & Monthly Analysis (2023 Focus)
-
-Key Metrics: Total Sales (253M), Total Quantity (6K), Transactions (1K), Average Price (39.73K).
-Visualizations:
-
-Stacked bar charts for quarterly and monthly sales vs. same period last year.
-Table summarizing sales by quarter.
-Filters: Mobile Model, Payment Method, Time Granularity.
-
-
-Screenshot:
-Failed to load imageView link 
-
-Page 3: Geographic & Detailed Breakdown (2024 MTD Report)
-
-Key Metrics: Total Sales (769M), Total Quantity (19K), Transactions (4K), Average Price (40.11K).
-Visualizations:
-
-Map of sales by city (e.g., Delhi, Mumbai, Bangalore).
-Line chart for quantity by month.
-Bar charts for ratings by status and transactions by payment method.
-Pie chart for payment method distribution.
-Bar charts for sales by brand/model and by day of the week.
+## Technologies Used
+- **Power BI**: For dashboard creation, data modeling, and visualizations.
+- **Data Sources**: Excel files with sales data (e.g., transactions, products, locations). 
+- **Libraries/Integrations**: DAX for calculations, Power Query for data transformation.
 
 
-Screenshot:
-Failed to load imageView link 
-
-Technologies Used
-
-Power BI: For dashboard creation, data modeling, and visualizations.
-Data Sources: Assumed CSV/Excel files with sales data (e.g., transactions, products, locations). Includes geospatial data from OpenStreetMap and TomTom.
-Libraries/Integrations: DAX for calculations, Power Query for data transformation.
 
 
 THANKS 
