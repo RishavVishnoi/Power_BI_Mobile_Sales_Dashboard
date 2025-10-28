@@ -2,7 +2,7 @@
 
 # Mobile Sales Dashboard
 
-![Mobile Sales Dashboard Banner](path/to/banner-image.png) <!-- Replace with actual banner if available -->
+![Mobile Sales Dashboard Banner](Dashboard.jpg) <!-- Replace with actual banner if available -->
 
 ## Overview
 
@@ -22,25 +22,7 @@ The dashboard analyzes data from 2022 and 2023, highlighting total sales, quanti
 
 The dashboard consists of three pages, each focusing on different aspects of the data:
 
-### Page 1: Overview & Trends (2022 Focus)
-- **Key Metrics**: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
-- **Visualizations**:
-  - Line chart showing monthly sales trends (MTD by Year/Quarter/Month/Day).
-  - Bar charts for sales comparison with same period last year.
-  - Filters: Mobile Model, Payment Method, Time Granularity (Year/Quarter/Month/Day).
-- **Screenshot**:
-  ![Page 1 Screenshot](screenshots/page1-overview-2022.png) <!-- Upload and link actual image -->
-
-### Page 2: Quarterly & Monthly Analysis (2023 Focus)
-- **Key Metrics**: Total Sales (253M), Total Quantity (6K), Transactions (1K), Average Price (39.73K).
-- **Visualizations**:
-  - Stacked bar charts for quarterly and monthly sales vs. same period last year.
-  - Table summarizing sales by quarter.
-  - Filters: Mobile Model, Payment Method, Time Granularity.
-- **Screenshot**:
-  ![Page 2 Screenshot](screenshots/page2-qm-analysis-2023.png) <!-- Upload and link actual image -->
-
-### Page 3: Geographic & Detailed Breakdown (2024 MTD Report)
+### Page 1: Geographic & Detailed Breakdown (2024 MTD Report)
 - **Key Metrics**: Total Sales (769M), Total Quantity (19K), Transactions (4K), Average Price (40.11K).
 - **Visualizations**:
   - Map of sales by city (e.g., Delhi, Mumbai, Bangalore).
@@ -49,7 +31,26 @@ The dashboard consists of three pages, each focusing on different aspects of the
   - Pie chart for payment method distribution.
   - Bar charts for sales by brand/model and by day of the week.
 - **Screenshot**:
-  ![Page 3 Screenshot](screenshots/page3-geographic-details.png) <!-- Upload and link actual image -->
+  ![Page 1 Screenshot](Dashboard.jpg)
+
+### Page 2: Quarterly & Monthly Analysis (2023 Focus)
+- **Key Metrics**: Total Sales (253M), Total Quantity (6K), Transactions (1K), Average Price (39.73K).
+- **Visualizations**:
+  - Stacked bar charts for quarterly and monthly sales vs. same period last year.
+  - Table summarizing sales by quarter.
+  - Filters: Mobile Model, Payment Method, Time Granularity.
+- **Screenshot**:
+  ![Page 2 Screenshot]( Same Period Last Year report.jpg)
+
+### Page 3:  Overview & Trends (2022 Focus)
+- **Key Metrics**: Total Sales (23M), Total Quantity (588), Transactions (110), Average Price (39.95K).
+- **Visualizations**:
+  - Line chart showing monthly sales trends (MTD by Year/Quarter/Month/Day).
+  - Bar charts for sales comparison with same period last year.
+  - Filters: Mobile Model, Payment Method, Time Granularity (Year/Quarter/Month/Day).
+- **Screenshot**:
+  ![Page 3 Screenshot](MTD Report.jpg) 
+
 
 ## Technologies Used
 - **Power BI**: For dashboard creation, data modeling, and visualizations.
