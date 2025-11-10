@@ -55,5 +55,4 @@ The dashboard consists of three pages, each focusing on different aspects of the
 - **Data Sources**: Excel files with sales data (e.g., transactions, products, locations). 
 - **Libraries/Integrations**: DAX for calculations, Power Query for data transformation.
 
-## Acknowledgments
-- Built with ❤️ using Power BI. 
+
